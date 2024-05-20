@@ -118,4 +118,25 @@ footer {
     width: 20%;
     heighT: 10%;
 }
+.csp{
+    border-radius: 3%;
+    width: 40%;
+    height: auto;
+    float:right;
+    padding:right;
+}
+.canva-cert{
+    border-radius: 3%;
+    width: 40%;
+    height: auto;
+    float:right;
+    padding:right;
+}
+.gif{
+    border-radius: 3%;
+    width: 40%;
+    height: auto;
+    float:right;
+    padding:right;
+}
 
